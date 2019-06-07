@@ -1,0 +1,11 @@
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/bin/Debug/netcoreapp2.2/Planets_and_Spaceships.deps.json
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/bin/Debug/netcoreapp2.2/Planets_and_Spaceships.runtimeconfig.json
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/bin/Debug/netcoreapp2.2/Planets_and_Spaceships.runtimeconfig.dev.json
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/bin/Debug/netcoreapp2.2/Planets_and_Spaceships.dll
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/bin/Debug/netcoreapp2.2/Planets_and_Spaceships.pdb
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/obj/Debug/netcoreapp2.2/Planets_and_Spaceships.csprojAssemblyReference.cache
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/obj/Debug/netcoreapp2.2/Planets_and_Spaceships.csproj.CoreCompileInputs.cache
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/obj/Debug/netcoreapp2.2/Planets_and_Spaceships.AssemblyInfoInputs.cache
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/obj/Debug/netcoreapp2.2/Planets_and_Spaceships.AssemblyInfo.cs
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/obj/Debug/netcoreapp2.2/Planets_and_Spaceships.dll
+/Users/Joel/workspace/csharp/Planets_and_Spaceships/obj/Debug/netcoreapp2.2/Planets_and_Spaceships.pdb
